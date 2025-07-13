@@ -1,1 +1,1 @@
-# multiple_neighborhood_cellular_automata
+# Multiple Neighborhood Cellular Automata
